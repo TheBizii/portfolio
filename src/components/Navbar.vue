@@ -1,5 +1,5 @@
 <style lang="css" scoped>
-.router-link-active::before {
+li a.router-link-active::before {
   content: '$';
   margin-right: 5px;
   color: var(--color-primary);
